@@ -1,5 +1,0 @@
-# kyle-portfolio
-
-hello
-
-//hello
